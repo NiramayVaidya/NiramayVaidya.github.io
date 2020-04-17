@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-04-17T23:53:13+05:30</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Niramay Vaidya’ personal website</title>
+  
+
+  
+    <subtitle>My own personal website highlighting my work at COEP as an undergraduate IT engineering student</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Privacy Preserving Data Aggregation using Differential Privacy</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Privacy Preserving Data Aggregation using Differential Privacy" />
+      <published>2020-01-01T00:00:00+05:30</published>
+      <updated>2020-01-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">DNSGuard</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="DNSGuard" />
+      <published>2019-09-01T00:00:00+05:30</published>
+      <updated>2019-09-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">IoT Platform</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="IoT Platform" />
+      <published>2019-08-01T00:00:00+05:30</published>
+      <updated>2019-08-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Summer Intern at Barclays Plc.</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Barclays Plc." />
+      <published>2019-05-01T00:00:00+05:30</published>
+      <updated>2019-05-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-9</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Order Entry and Management Engine GUI</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Order Entry and Management Engine GUI" />
+      <published>2019-01-01T00:00:00+05:30</published>
+      <updated>2019-01-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Intelligent/Optical Character Recognition</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Intelligent/Optical Character Recognition" />
+      <published>2018-08-01T00:00:00+05:30</published>
+      <updated>2018-08-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Summer Intern at Promorphosis Pvt. Ltd.</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Promorphosis Pvt. Ltd." />
+      <published>2018-06-01T00:00:00+05:30</published>
+      <updated>2018-06-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Digit Recognition</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Digit Recognition" />
+      <published>2018-01-01T00:00:00+05:30</published>
+      <updated>2018-01-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Word Completion/Suggestion Feature in Gedit</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Word Completion/Suggestion Feature in Gedit" />
+      <published>2017-08-01T00:00:00+05:30</published>
+      <updated>2017-08-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

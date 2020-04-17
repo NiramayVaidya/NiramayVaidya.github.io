@@ -1,60 +1,39 @@
-layout: stacked
-style: dark
+# Site settings
+title: Niramay Vaidya' personal website
+email: niramay.vaidya@gmail.com
+url: https://github.com/NiramayVaidya
+description: "My own personal website highlighting my work at COEP as an undergraduate IT engineering student"
+keywords: "College of Engineering, Pune (COEP), Information Technology (IT)"
+skills: "System Programmer - Embedded Systems Programmer"
+meta_author: Vaidya Niramay
 
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+# Google webmaster tools
+google_verify:
 
-permalink: /:year/:month/:day/:title/
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
+  - scope:
+      path: ""
       type: "posts"
     values:
-      layout: "post"
-
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
-
-social_media:
-  # behance: your_username
-  # dribbble: your_username
-  facebook: Niramay Vaidya
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  linkedin: Niramay Vaidya
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  website: https://niramayvaidya.github.io/
-  # youtube: your_username
-
-# topics:
-  # - name: CSS
-  #   web_url: https://github.com/topics/css
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  # - name: Web design
-
-  # - name: Sass
-  #   web_url: https://github.com/topics/sass
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-
-theme: jekyll-theme-cayman
+      permalink: ""

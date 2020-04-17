@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2018-06-01
+img: asp.jpg
+alt: image-alt
+title: Summer Intern at Promorphosis Pvt. Ltd.
+duration: June'18 - July'18
+domain: Web Development
+description: Implemented validation code in C# for configuration parameters of their web application built using the ASP.net framework.
+---

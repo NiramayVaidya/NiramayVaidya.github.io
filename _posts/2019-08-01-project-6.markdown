@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2019-08-01
+img: iot_platform.jpg
+alt: image-alt
+title: IoT Platform
+duration: Aug'19 - Dec'19
+domain: Internet of Things
+description: Developed a bare minimum IoT platform using Mosquitto MQTT message broker, Node-RED flows, MySQL time-series DB, a rule engine, a REST API interface, and microservices.
+link: https://github.com/NiramayVaidya/IoT_Platform
+---

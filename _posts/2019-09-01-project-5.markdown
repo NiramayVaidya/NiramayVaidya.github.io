@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2019-09-01
+img: dns_guard.jpg
+alt: image-alt
+title: DNSGuard
+duration: Sept'19 - Dec'19
+domain: Cyber Security
+description: Developed a DNS Server that runs on localhost to block advertisements and malicious websites. Added a feature of periodic log backup from EC2 instance to S3 bucket using Linux logrotate utility.
+link: https://github.com/NiramayVaidya/DNSGuard
+---

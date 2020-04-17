@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-08-01
+img: gnome_gedit.jpg
+alt: image-alt
+title: Word Completion/Suggestion Feature in Gedit
+duration: Aug'17 - Dec'17
+domain: C and GTK Application Development
+description: Used the GTK C library to provide this functionality in the default GNOME graphical text editor.
+link: https://github.com/NiramayVaidya/Word_Completion_Gedit
+---

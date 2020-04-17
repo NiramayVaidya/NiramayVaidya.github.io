@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-01
+img: tkinter.jpg
+alt: image-alt
+title: Order Entry and Management Engine GUI
+duration: Jan'19 - Apr'19
+domain: Native Application GUI Development
+description: Implemented using the Tkinter library in Python for a native application.
+link: https://github.com/NiramayVaidya/Order_Entry_Management_Engine_GUI
+---

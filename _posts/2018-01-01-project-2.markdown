@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2018-01-01
+img: digit_recog.jpg
+alt: image-alt
+title: Digit Recognition
+duration: Jan'18 - Apr'18
+domain: Computer Vision
+description: Implemented a 3 layered feed forward neural network in Python. Used the MNIST database and provided a GUI using PyGTK.
+link: https://github.com/NiramayVaidya/Digit_Recognition
+---

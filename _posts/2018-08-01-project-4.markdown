@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2018-08-01
+img: icr.jpg
+alt: image-alt
+title: Intelligent/Optical Character Recognition
+project-duration: Aug'18 - Apr'19
+domain: Computer Vision
+description: Implemented the text image segmentation logic with the help of OpenCV and a neural network model in Python via Tensorflow using the IAM dataset. Created a web frontend using the Flask web framework.
+link: https://github.com/NiramayVaidya/Intelligent_Character_Recognition
+---
