@@ -31,20 +31,13 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.link && post.link_another %}
-                                    <li>Links:
-                                        <strong><a href="{{ post.link }}">GitHub Repository 1</a>
-                                        </strong>
-                                        <strong><a href="{{ post.link_another }}">GitHub Repository 2</a>
-                                        </strong>
-                                    </li>
-                                {% elsif post.link %}
+                                {% if post.link %}
                                     <li>Link:
                                         <strong><a href="{{ post.link }}">GitHub Repository</a>
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.publication && post.publication_another %}
+                                {% if post.publication and post.publication_another %}
                                     <li>Publication Links:
                                         <strong><a href="{{ post.publication }}">Abstract 1</a>
                                         </strong>

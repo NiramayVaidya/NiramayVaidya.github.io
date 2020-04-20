@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 10
+modal-id: 11
 date: 2016-09-01
-img: csat.png
+img: csat.jpg
 alt: image-alt
 title: Communication Subsystem member and then Lead in COEP's Student Satellite Team (CSAT)
 duration: Sept'16 - April'20

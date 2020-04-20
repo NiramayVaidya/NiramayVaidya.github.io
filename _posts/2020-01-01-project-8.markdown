@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2020-01-01
+img: dp-pred.png
+alt: image-alt
+title: Privacy Preserving Blood Pressure Prediction using Differential Privacy
+duration: Jan'20 - Present
+domain: Data Privacy
+description: Performing privatization of Systolic Blood Pressure (SBP) prediction for Hemodialysis using the HEMOBP dataset.
+link: https://github.com/NiramayVaidya/Differential_Privacy_Hemodialysis_SBP_Prediction
+---

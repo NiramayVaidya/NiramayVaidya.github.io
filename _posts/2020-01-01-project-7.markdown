@@ -2,12 +2,11 @@
 layout: default
 modal-id: 7
 date: 2020-01-01
-img: dp.jpg
+img: dp-aggr.jpg
 alt: image-alt
 title: Privacy Preserving Data Aggregation using Differential Privacy
 duration: Jan'20 - Present
 domain: Data Privacy
-description: Implementing DP techniques on resource constrained healthcare IoT edge devices for collection of real time data streams and privatization of Systolic Blood Pressure prediction for Hemodialysis using the HEMOBP dataset.
+description: Implementing DP techniques on resource constrained healthcare IoT edge devices for collection of real time data streams.
 link: https://github.com/NiramayVaidya/Differential_Privacy_Real_Time_Data_Aggregation
-link_another: https://github.com/NiramayVaidya/Differential_Privacy_Hemodialysis_SBP_Prediction
 ---

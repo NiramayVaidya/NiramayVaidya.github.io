@@ -1,17 +1,28 @@
 
-    <!-- Project and Internships Grid Section -->
+    <!-- Projects Grid Section -->
     <section id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Projects and Internships</h2>
+                    <h2>Projects</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    {% if post.modal-id != 10 %}
+                    {% if post.modal-id > 2 and post.modal-id < 9 %}
                         <div class="col-sm-4 portfolio-item">
+                            <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                                <div class="caption">
+                                    <div class="caption-content">
+                                        <i class="fa fa-search-plus fa-3x"></i>
+                                    </div>
+                                </div>
+                                <img src="img/projects_internships_research_experience/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            </a>
+                        </div>
+                    {% elsif post.modal-id >= 1 and post.modal-id < 3 %}
+                        <div class="col-sm-6 portfolio-item">
                             <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                                 <div class="caption">
                                     <div class="caption-content">
