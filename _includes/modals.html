@@ -1,4 +1,4 @@
- <!-- Projects and Internships Modals -->
+ <!-- Projects and Internships and Research Experience Modals -->
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -14,9 +14,9 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/projects_internships/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/projects_internships_research_experience/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                                <p style="text-align: justify;">{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.duration %}
@@ -31,15 +31,29 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.link %}
+                                {% if post.link && post.link_another %}
+                                    <li>Links:
+                                        <strong><a href="{{ post.link }}">GitHub Repository 1</a>
+                                        </strong>
+                                        <strong><a href="{{ post.link_another }}">GitHub Repository 2</a>
+                                        </strong>
+                                    </li>
+                                {% elsif post.link %}
                                     <li>Link:
                                         <strong><a href="{{ post.link }}">GitHub Repository</a>
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.link_another %}
-                                    <li>Link:
-                                        <strong><a href="{{ post.link_another }}">GitHub Repository</a>
+                                {% if post.publication && post.publication_another %}
+                                    <li>Publication Links:
+                                        <strong><a href="{{ post.publication }}">Abstract 1</a>
+                                        </strong>
+                                        <strong><a href="{{ post.publication_another }}">Abstract 2</a>
+                                        </strong>
+                                    </li>
+                                {% elsif post.publication %}
+                                    <li>Publication Link:
+                                        <strong><a href="{{ post.publication }}">Abstract</a>
                                         </strong>
                                     </li>
                                 {% endif %}
