@@ -7,6 +7,6 @@ alt: image-alt
 title: IoT Platform
 duration: Aug'19 - Dec'19
 domain: Internet of Things
-description: Developed a bare minimum IoT platform using Mosquitto MQTT message broker, Node-RED flows, MySQL time-series DB, a rule engine, a REST API interface, and microservices.
+description: Developed a bare minimum IoT platform using a Mosquitto MQTT message broker to collect data from client nodes, Node-RED flows to establish data flows within the platform, MySQL time-series DB to store the input data organized using multiple tables, a rule engine to trigger appropriate actions based on the occurence of certain events, a REST API interface to easily connect to the platform and perform actions, and microservices to provide event and alert notifications capability.
 link: https://github.com/NiramayVaidya/IoT_Platform
 ---

@@ -31,7 +31,14 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.link %}
+                                {% if post.link and post.link_another %}
+                                    <li>Links:
+                                        <strong><a href="{{ post.link }}">GitHub Repository</a>
+                                        </strong>
+                                        <strong><a href="{{ post.link_another }}">Firefox Add-on Page</a>
+                                        </strong>
+                                    </li>
+                                {% elsif post.link %}
                                     <li>Link:
                                         <strong><a href="{{ post.link }}">GitHub Repository</a>
                                         </strong>

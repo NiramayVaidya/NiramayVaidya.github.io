@@ -2,11 +2,11 @@
 layout: default
 modal-id: 7
 date: 2020-01-01
-img: dp-aggr.jpg
+img: dp_aggr.jpg
 alt: image-alt
-title: Privacy Preserving Data Aggregation using Differential Privacy
-duration: Jan'20 - Present
+title: Differentially Private Distributed Aggregation of Real Time Data Streams from Resource Constrained Healthcare IoT Edge Devices
+duration: Jan'20 - July'20
 domain: Data Privacy
-description: Implementing DP techniques on resource constrained healthcare IoT edge devices for collection of real time data streams.
+description: Performed privacy preserving distributed data aggregation of heart rate values collected in real time from a personal fitness tracker like Xiaomi's MiBand 2 on a resource constrained processsing unit like an Arduino UNO board, with the assistance of an ESP32 WiFi Bluetooth Development board. The ESP32 extracts HRM values in BPM from the fitness tracker using the BLE protocol.
 link: https://github.com/NiramayVaidya/Differential_Privacy_Real_Time_Data_Aggregation
 ---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+date: 2020-05-01
+img: firefox_addon.png
+alt: image-alt
+title: New Tab Wallpaper Carousel Firefox Add-on
+duration: May'20
+domain: Web Development
+description: Developed a Firefox Add-on which allows the user to scroll through a wallpaper carousel when a new tab is launched. 15 HD wallpapers using the random or the featured Unsplash API get displayed in a carousel with options for manual scrolling on click or auto scrolling by providing a time duration, along with day, month, date, year, and time shown.
+link: https://github.com/NiramayVaidya/Firefox_Extension_New_Tab_Wallpaper_Carousel
+link_another: https://addons.mozilla.org/en-US/firefox/addon/new-tab-wallpaper-carousel/
+---

@@ -7,6 +7,6 @@ alt: image-alt
 title: Order Entry and Management Engine GUI
 duration: Jan'19 - Apr'19
 domain: Native Application GUI Development
-description: Implemented using the Tkinter library in Python for a native application.
+description: Implemented using the Tkinter library in Python for a native application consisting of GUI windows for buy, sell and modify equity orders sent to the stock exchanges, along with basic authentication, authorization and error windows.
 link: https://github.com/NiramayVaidya/Order_Entry_Management_Engine_GUI
 ---

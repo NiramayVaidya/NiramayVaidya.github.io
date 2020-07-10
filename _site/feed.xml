@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-05-28T21:52:32+05:30</updated>
+  <updated>2020-07-10T22:46:24+05:30</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,10 +20,42 @@
   
   
     <entry>
-      <title type="html">Privacy Preserving Blood Pressure Prediction using Differential Privacy</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Privacy Preserving Blood Pressure Prediction using Differential Privacy" />
-      <published>2020-01-01T00:00:00+05:30</published>
-      <updated>2020-01-01T00:00:00+05:30</updated>
+      <title type="html">New Tab Wallpaper Carousel Firefox Add-on</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="New Tab Wallpaper Carousel Firefox Add-on" />
+      <published>2020-05-01T00:00:00+05:30</published>
+      <updated>2020-05-01T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-9</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Privacy Preserving Systolic Blood Pressure Prediction using Differentially Private Data</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Privacy Preserving Systolic Blood Pressure Prediction using Differentially Private Data" />
+      <published>2020-04-01T00:00:00+05:30</published>
+      <updated>2020-04-01T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-8</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -52,8 +84,8 @@
     </entry>
   
     <entry>
-      <title type="html">Privacy Preserving Data Aggregation using Differential Privacy</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Privacy Preserving Data Aggregation using Differential Privacy" />
+      <title type="html">Differentially Private Distributed Aggregation of Real Time Data Streams from Resource Constrained Healthcare IoT Edge Devices</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Differentially Private Distributed Aggregation of Real Time Data Streams from Resource Constrained Healthcare IoT Edge Devices" />
       <published>2020-01-01T00:00:00+05:30</published>
       <updated>2020-01-01T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-7</id>
@@ -152,7 +184,7 @@
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Barclays Plc." />
       <published>2019-05-01T00:00:00+05:30</published>
       <updated>2019-05-01T00:00:00+05:30</updated>
-      <id>http://localhost:4000/project-10</id>
+      <id>http://localhost:4000/project-11</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -248,7 +280,7 @@
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Promorphosis Pvt. Ltd." />
       <published>2018-06-01T00:00:00+05:30</published>
       <updated>2018-06-01T00:00:00+05:30</updated>
-      <id>http://localhost:4000/project-9</id>
+      <id>http://localhost:4000/project-10</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -281,38 +313,6 @@
       <published>2018-01-01T00:00:00+05:30</published>
       <updated>2018-01-01T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Word Completion/Suggestion Feature in Gedit</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Word Completion/Suggestion Feature in Gedit" />
-      <published>2017-08-01T00:00:00+05:30</published>
-      <updated>2017-08-01T00:00:00+05:30</updated>
-      <id>http://localhost:4000/project-1</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2020-04-01
+img: dp_pred.png
+alt: image-alt
+title: Privacy Preserving Systolic Blood Pressure Prediction using Differentially Private Data
+duration: Apr'20 - July'20
+domain: Data Privacy
+description: Performed privatization of Systolic Blood Pressure (SBP) prediction for Hemodialysis using the HEMOBP dataset. SBP is predicted using two models, multiple linear regression and Tensorflow based feed-forward neural network. The input to both these models is noised Diastolic Blood Pressure (DBP) and Hemodialysis sessions' time values, using the perturbation based Laplace mechanism under Differential Privacy (DP). 
+link: https://github.com/NiramayVaidya/Differential_Privacy_Hemodialysis_SBP_Prediction
+---

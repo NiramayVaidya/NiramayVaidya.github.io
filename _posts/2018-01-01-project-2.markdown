@@ -7,6 +7,6 @@ alt: image-alt
 title: Digit Recognition
 duration: Jan'18 - Apr'18
 domain: Computer Vision
-description: Implemented a 3 layered feed forward neural network in Python. Used the MNIST database and provided a GUI using PyGTK.
+description: Implemented a 3 layered feed-forward neural network in Python without the use of any ML framework. Used the MNIST database and provided a GUI using PyGTK which displays the original image, the predicted output vector, the predicted output digit, and graphs plotted for training and testing accuracies.
 link: https://github.com/NiramayVaidya/Digit_Recognition
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 title: Intelligent/Optical Character Recognition
 duration: Aug'18 - Apr'19
 domain: Computer Vision
-description: Implemented the text image segmentation logic with the help of OpenCV and a neural network model in Python via Tensorflow using the IAM dataset. Created a web frontend using the Flask web framework.
+description: Implemented the text image segmentation logic with the help of OpenCV and a CNN + RNN based neural network model in Python via Tensorflow using the IAM dataset. Created a web frontend using the Flask web framework which takes an input image of either handwritten or printed text, and outputs the corresponding predicted text, along with displaying useful information regarding the text, like the number of words and lines.
 link: https://github.com/NiramayVaidya/Intelligent_Character_Recognition
 ---

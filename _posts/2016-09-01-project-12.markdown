@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 12
+date: 2016-09-01
+img: csat.jpg
+alt: image-alt
+title: Communication Subsystem Member and then Lead in COEP's Student Satellite Team (CSAT)
+duration: Sept'16 - April'20
+domain: Embedded Systems
+description: Involved in the development of a non-interrupt based priority scheduler and the overall design of the main code logic that will run on the Communication microcontroller. Designed and implemented a custom protocol over Universal Asynchronous Receiver/Transmitter (UART) to communicate between two ARM Cortex-M microcontrollers. Explored the UART and Pulse Width Modulation (PWM) modules of the same microcontroller. Co-authored two research papers at the 68th International Astronautical Congress 2017 (IAC'17).
+publication: https://iafastro.directory/iac/paper/id/41391/summary/
+publication_another: https://iafastro.directory/iac/paper/id/41291/summary/
+---

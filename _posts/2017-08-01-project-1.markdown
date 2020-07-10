@@ -7,6 +7,6 @@ alt: image-alt
 title: Word Completion/Suggestion Feature in Gedit
 duration: Aug'17 - Dec'17
 domain: C and GTK Application Development
-description: Used the GTK C library to provide this functionality in the default GNOME graphical text editor.
+description: Used the GTK C library to provide this functionality in the default GNOME graphical text editor. A pull-up menu triggered on mouse click or via a keyboard shortcut press lists matches for the partial word typed in the editor window from a set of 20K English words in case of a plain text file. For C, C++, Java and Python files, it lists matching keywords of the respective coding languages.
 link: https://github.com/NiramayVaidya/Word_Completion_Gedit
 ---

@@ -10,19 +10,8 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    {% if post.modal-id > 2 and post.modal-id < 9 %}
+                    {% if post.modal-id < 10 %}
                         <div class="col-sm-4 portfolio-item">
-                            <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <i class="fa fa-search-plus fa-3x"></i>
-                                    </div>
-                                </div>
-                                <img src="img/projects_internships_research_experience/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                            </a>
-                        </div>
-                    {% elsif post.modal-id >= 1 and post.modal-id < 3 %}
-                        <div id="env-{{ post.modal-id }}" class="">
                             <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                                 <div class="caption">
                                     <div class="caption-content">
