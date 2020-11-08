@@ -2,8 +2,8 @@
 title: Niramay Vaidya' personal website
 email: niramay.vaidya@gmail.com
 url: https://github.com/NiramayVaidya
-description: "My own personal website highlighting my work at COEP as an undergraduate IT engineering student"
-keywords: "College of Engineering, Pune (COEP), Information Technology (IT)"
+description: "My own personal website highlighting my work at CoEP as an undergraduate IT engineering student"
+keywords: "College of Engineering, Pune (CoEP), Information Technology (IT)"
 skills: "System Programmer - Embedded Systems Programmer"
 meta_author: Vaidya Niramay
 
@@ -25,7 +25,7 @@ footer:
   location: Location
   social: Around the Web
   credits: Credits
-  last_updated: October 30, 2020
+  last_updated: November 8, 2020
 
 # Build settings
 markdown: kramdown
