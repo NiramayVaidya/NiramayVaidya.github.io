@@ -9,4 +9,5 @@ duration: Jan'20 - July'20
 domain: Data Privacy
 description: Performed privacy preserving distributed data aggregation of heart rate values collected in real time from a personal fitness tracker like Xiaomi's MiBand 2 on a resource constrained processsing unit like an Arduino UNO board, with the assistance of an ESP32 WiFi Bluetooth Development board. The ESP32 extracts HRM values in BPM from the fitness tracker using the BLE protocol.
 link: https://github.com/NiramayVaidya/Differential_Privacy_Real_Time_Data_Aggregation
+publication: https://link.springer.com/chapter/10.1007/978-981-16-0666-3_50
 ---
