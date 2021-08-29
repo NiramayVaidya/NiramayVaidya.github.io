@@ -1,4 +1,4 @@
- <!-- Projects and Internships and Research Experience Modals -->
+ <!-- Projects, Internships, Research and Work Experience Modals -->
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/projects_internships_research_experience/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/projects_internships_research_work_experience/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p style="text-align: justify;">{{ post.description }}</p>
                             {% endif %}

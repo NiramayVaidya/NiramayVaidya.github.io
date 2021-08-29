@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 13
+date: 2020-08-01
+img: avaya.png
+alt: image-alt
+title: Software Engineer at Avaya
+duration: July'20 - Aug'21
+domain: Application and Cloud Microservices Development
+description: Contributed to the development for the 1st release of an Analytics as a Service product having a microservices based architecture to be deployed on Azure. Involved in the backend implementation of Data Collector services developed in Spring Batch and deployed as Azure Web Apps leveraging Azure Hybrid Connections for on-prem connectivity, along with the Admin and DB Management services deployed in an Azure Kubernetes cluster using Helm. Worked on a POC for Aiven Kafka and Kafka Connect utilizing Prometheus and Grafana dashboards for monitoring metrics. For the individual project as part of the GLIDE Program directed towards new hires, developed a Golang adapter responsible for the enrichment of real time raw call volume data. Used Azure Event Hubs, Stream Analytics, Logic Apps and SQL DB to process and store this data in real time. Performed call volume forecasting by both developing a Django based dashboard deployed as an Azure Web App and using MicroStrategy predictive analytics.
+---

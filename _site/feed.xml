@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-06-28T22:50:10+05:30</updated>
+  <updated>2021-08-28T23:29:37-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,10 +20,42 @@
   
   
     <entry>
+      <title type="html">Software Engineer at Avaya</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Software Engineer at Avaya" />
+      <published>2020-08-01T00:00:00-04:00</published>
+      <updated>2020-08-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-13</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">New Tab Wallpaper Carousel Firefox Add-on</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="New Tab Wallpaper Carousel Firefox Add-on" />
-      <published>2020-05-01T00:00:00+05:30</published>
-      <updated>2020-05-01T00:00:00+05:30</updated>
+      <published>2020-05-01T00:00:00-04:00</published>
+      <updated>2020-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-9</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -54,8 +86,8 @@
     <entry>
       <title type="html">Privacy Preserving Systolic Blood Pressure Prediction using Differentially Private Data</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Privacy Preserving Systolic Blood Pressure Prediction using Differentially Private Data" />
-      <published>2020-04-01T00:00:00+05:30</published>
-      <updated>2020-04-01T00:00:00+05:30</updated>
+      <published>2020-04-01T00:00:00-04:00</published>
+      <updated>2020-04-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-8</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -86,8 +118,8 @@
     <entry>
       <title type="html">Differentially Private Distributed Aggregation of Real Time Data Streams from Resource Constrained Healthcare IoT Edge Devices</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Differentially Private Distributed Aggregation of Real Time Data Streams from Resource Constrained Healthcare IoT Edge Devices" />
-      <published>2020-01-01T00:00:00+05:30</published>
-      <updated>2020-01-01T00:00:00+05:30</updated>
+      <published>2020-01-01T00:00:00-05:00</published>
+      <updated>2020-01-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/project-7</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -118,8 +150,8 @@
     <entry>
       <title type="html">DNSGuard</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="DNSGuard" />
-      <published>2019-09-01T00:00:00+05:30</published>
-      <updated>2019-09-01T00:00:00+05:30</updated>
+      <published>2019-09-01T00:00:00-04:00</published>
+      <updated>2019-09-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-5</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -150,8 +182,8 @@
     <entry>
       <title type="html">IoT Platform</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="IoT Platform" />
-      <published>2019-08-01T00:00:00+05:30</published>
-      <updated>2019-08-01T00:00:00+05:30</updated>
+      <published>2019-08-01T00:00:00-04:00</published>
+      <updated>2019-08-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-6</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -182,8 +214,8 @@
     <entry>
       <title type="html">Summer Intern at Barclays</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Barclays" />
-      <published>2019-05-01T00:00:00+05:30</published>
-      <updated>2019-05-01T00:00:00+05:30</updated>
+      <published>2019-05-01T00:00:00-04:00</published>
+      <updated>2019-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-11</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -214,8 +246,8 @@
     <entry>
       <title type="html">Order Entry and Management Engine GUI</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Order Entry and Management Engine GUI" />
-      <published>2019-01-01T00:00:00+05:30</published>
-      <updated>2019-01-01T00:00:00+05:30</updated>
+      <published>2019-01-01T00:00:00-05:00</published>
+      <updated>2019-01-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/project-3</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -246,8 +278,8 @@
     <entry>
       <title type="html">Intelligent/Optical Character Recognition</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Intelligent/Optical Character Recognition" />
-      <published>2018-08-01T00:00:00+05:30</published>
-      <updated>2018-08-01T00:00:00+05:30</updated>
+      <published>2018-08-01T00:00:00-04:00</published>
+      <updated>2018-08-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-4</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -278,41 +310,9 @@
     <entry>
       <title type="html">Summer Intern at Promorphosis Pvt. Ltd.</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Summer Intern at Promorphosis Pvt. Ltd." />
-      <published>2018-06-01T00:00:00+05:30</published>
-      <updated>2018-06-01T00:00:00+05:30</updated>
+      <published>2018-06-01T00:00:00-04:00</published>
+      <updated>2018-06-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-10</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Digit Recognition</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Digit Recognition" />
-      <published>2018-01-01T00:00:00+05:30</published>
-      <updated>2018-01-01T00:00:00+05:30</updated>
-      <id>http://localhost:4000/project-2</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
