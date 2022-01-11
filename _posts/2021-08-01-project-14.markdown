@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 14
+date: 2021-08-01
+img: distributed.jpg
+alt: image-alt
+title: Distributed Shared Memory System
+duration: Oct'21 - Dec'21
+domain: Operating Systems
+description: Implemented mechanisms to perform distributed mutual locking and establish distributed shared memory across multiple physical machines. The goal was to run applications like sort, map reduce for word count and simplified k-means clustering in a distributed fashion. Implemented the distributed shared memory system using a 3 state page level invalidation protocol where the communication between the nodes and a central directory was managed using gRPC.
+link: https://github.com/NiramayVaidya/Distributed_Shared_Memory_System
+---

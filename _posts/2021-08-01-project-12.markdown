@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2021-08-01
+img: systolic.png
+alt: image-alt
+title: Analysis of Cache Metrics, Comparing Branch Predictors, Systolic Array Design
+duration: Oct'21 - Dec'21
+domain: Computer Architecture
+description: Analyzed the impact of cache associativity and cache size on power consumption, area and access time using the cacti simulator. Compared the MPKI (Miss Predictions per 1000 Instructions) for 4 different branch predictors (BiModal, gShare, Hybrid and Yeh-Patt) using the branch predictor championship simulator. Designed a common optimal systolic array architecture for neural network workloads like AlphaGoZero, Faster-RCNN, VGG19 and Resnet50 using the scale-sim-v2 simulator to improve the required compute cycles and the hardware utilization.
+link: https://github.com/NiramayVaidya/PSU_CSE_530_Coursework
+---

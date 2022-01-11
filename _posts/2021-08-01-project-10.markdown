@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+date: 2021-08-01
+img: thermal.png
+alt: image-alt
+title: Nvidia GTX480 Fermi GPU Architecture Thermal Analysis
+duration: Oct'21
+domain: Computer Architecture
+description: Performed thermal analysis of the Nvidia GTX480 GPU having the Fermi architecture using the gpgpu-sim and HotSpot simulators. Designed the 3D floorplan for this GPU, which was required as an input to the HotSpot simulator, based upon the Fermi whitepaper.
+link: https://github.com/NiramayVaidya/GTX480_Thermal_Analysis
+---

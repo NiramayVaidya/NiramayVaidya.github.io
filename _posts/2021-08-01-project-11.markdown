@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2021-08-01
+img: cache.jpg
+alt: image-alt
+title: Cache Performance Analysis and Implementation of Cache Policies
+duration: Sep'21
+domain: Computer Architecture
+description: Analyzed the cache performance for different types of kernels using a simulator and the Intel pin tool. Implemented the inclusive and exclusive cache organizations and then subsequently compared and contrasted their performance with the NINE cache policy.
+link: https://github.com/NiramayVaidya/Cache_Perf_Sim
+---

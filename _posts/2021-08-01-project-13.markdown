@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 15
+date: 2021-08-01
+img: mining.png
+alt: image-alt
+title: Performance Analysis of Association Rule Mining
+duration: Dec'21
+domain: Multiprocessor Architecture
+description: Evaluated the hardware performance for the association rule mining application for two types of systems, shared memory multiprocessors and GPUs. Used pthreads to parallelize the serial implementation for this application on the former and CUDA on the latter. Developed a synthetic dataset generator for the same. Compared the execution time with various changes in the application parameters, different dataset sizes and hardware settings, and subsequently analyzed the effects on scalability of the application.
+link: https://github.com/NiramayVaidya/532-perf_analysis
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 13
+date: 2021-08-01
+img: threads.jpg
+alt: image-alt
+title: Thread Migrator System
+duration: Sep'21
+domain: Operating Systems
+description: Implemented a mechanism to migrate conventional threads of a process across physical machines. Used socket programming to allow communication between hosts to achieve this migration. The primary idea was to migrate a running thread in a process on one machine to another machine such that its state is retained on the new machine and it starts executing from the point it left off on the original machine.
+link: https://github.com/NiramayVaidya/Thread_Migrator_System
+---
